@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Reading Books"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Vibing Music"
+    }
+  ]
+}
